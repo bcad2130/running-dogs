@@ -1,0 +1,15 @@
+body
+{
+	background-image:url(https://raw.github.com/bcad2130/running-dogs/master/assets/omfgdogs.gif);
+	background-repeat=y;
+}
+
+div
+{
+	font-size: 44px;
+	font-family: cursive;
+	color: red;
+	position:fixed;
+	right: 0px;
+	bottom: 0px;
+}
